@@ -16,6 +16,8 @@ public class MyDemoGitHub {
      */
     public static void main(String[] args) {
         System.out.println("Test Nigger");
+        System.out.println("Test TorturedSlave");
+        System.out.println("Test 3");
     }
     
 }
